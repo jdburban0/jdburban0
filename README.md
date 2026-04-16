@@ -1,16 +1,29 @@
-## Hi there 👋
+# Juan David Burbano
 
-<!--
-**jdburban0/jdburban0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Occidente, Cali.  
+Construyo aplicaciones web completas y busco mi primera oportunidad profesional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Frontend** — React, JavaScript, HTML, CSS  
+**Backend** — Node.js, Express, Python, Java  
+**Bases de datos** — PostgreSQL, Prisma ORM  
+**Herramientas** — Git, Vite, Socket.IO, REST APIs
+
+---
+
+## Proyectos destacados
+
+### [SLC Turnos](https://github.com/jdburban0/slc-turnos)
+Sistema web para la gestión de turnos del equipo operativo de SLC Enterprise.  
+Solicitudes, aprobaciones, notificaciones en tiempo real y envío de horarios por correo.  
+`React` `Node.js` `PostgreSQL` `Socket.IO` `JWT`  
+
+---
+
+## Contacto
+
+📍 Cali, Colombia  
+📧 juandavidburbano340@gmail.com
