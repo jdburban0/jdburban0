@@ -1,8 +1,6 @@
 # Juan David Burbano
 
-Estudiante de Ingeniería Informatica en la Universidad Autónoma de Occidente, Cali.  
-Construyo aplicaciones web completas y busco mi primera oportunidad profesional.
-
+Estudiante de Ingeniería Informatica en la Universidad Autónoma de Occidente, Cali.
 ---
 
 ## Stack
